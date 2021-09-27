@@ -3,6 +3,9 @@
 I graduated from the Creative Media and Game Technologies course at Saxion, University of Applied Sciences as a Game Programmer in July of 2021.
 
 ## Recent projects:
+#### UI Practice
+Implementing different forms of UI in Unreal Engine 4 using both C++ and UMG widgets. More info and code in the [repository](https://github.com/TristanSmeets/UMG_Practice)
+
 #### Graduation Internship at Team6 Game Studios (Feb 2021 - Jun 2021)
 Worked on implementing UI for an unanounced project and worked on improving their UI tool.
 
